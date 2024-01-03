@@ -1,3 +1,3 @@
 ### wsg
 
-https://tinyurl.com/mryh8tmx
+http://192.181.97.133:8000
